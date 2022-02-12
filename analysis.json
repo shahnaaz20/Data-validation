@@ -1,0 +1,11 @@
+{
+    "Area_Name":"str", 
+    "Year":"int",
+    "Group_Name":3,
+    "Sub_Group_Name":4,
+    "Cases_Property_Recovered":5,
+    "Cases_Property_Stolen":6, "Value_of_Property_Recovered":7, 
+    "Value_of_Property_Stolen": 8
+
+}
+
